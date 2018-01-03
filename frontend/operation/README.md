@@ -1,10 +1,10 @@
-# 超盟商超数据化运营
+# 超盟商超数据化运营系统
 
 > frontend
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
