@@ -24,4 +24,4 @@ npm run start
 ## others
 
 * eslint用于js的格式检查，css格式检查请自行安装使用Csscomb （没加强制，全靠自觉）
-* 只有少数页面用到的插件建议模块化，在使用的页面import导入。第三方插件使用npm install --save-dev安装
+* 只有少数页面用到的插件建议模块化，在使用的页面import导入。第三方插件使用npm install --save-dev 安装。
